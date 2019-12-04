@@ -1,5 +1,5 @@
-# V8Net-IO
-Aplicação para o estudo de CQRS e boas práticas.
+# About V8Net-IO
+Application for the study of CQRS and good practices.
 
-### Referência para criação deste projeto:
+### References:
 * http://www.eduardopires.net.br/
